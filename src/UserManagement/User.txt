@@ -1,0 +1,3 @@
+pratu,phodade,p@123,ess
+pratiksha,phodade,p@123,admin
+rutu,rutuja,samu,student
